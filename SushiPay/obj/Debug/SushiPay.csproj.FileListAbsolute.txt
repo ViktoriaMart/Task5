@@ -1,0 +1,187 @@
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe.config
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.pdb
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csprojResolveAssemblyReference.cache
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\App.g.cs
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.cache
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.lref
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.baml
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.g.resources
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.Properties.Resources.resources
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.GenerateResource.Cache
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.CoreCompileInputs.cache
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.exe
+C:\Users\IT\Downloads\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.pdb
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csprojResolveAssemblyReference.cache
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.g.cs
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\App.g.cs
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.cache
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.lref
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.exe
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.pdb
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe.config
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.pdb
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.baml
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.g.resources
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.Properties.Resources.resources
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.GenerateResource.Cache
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window1.g.cs
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window1.baml
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window2.g.cs
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window2.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe.config
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\BUS.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\BUS.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window1.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window2.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\App.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.lref
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window1.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window2.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.g.resources
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.Properties.Resources.resources
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.GenerateResource.Cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.exe
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe.config
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\BUS.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.dll
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\BUS.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.pdb
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csprojResolveAssemblyReference.cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.g.cs
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window1.g.cs
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window2.g.cs
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\App.g.cs
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.lref
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.baml
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window1.baml
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window2.baml
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.g.resources
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.Properties.Resources.resources
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.GenerateResource.Cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.exe
+C:\Users\IT\source\repos\05.11\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.pdb
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\BUS.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\EntityFramework.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\BUS.pdb
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.pdb
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\EntityFramework.xml
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.pdb
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.dll.config
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.dll.config
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\source\repos\Task1Platform\Task1Platform\SushiPay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe.config
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.exe
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\SushiPay.pdb
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\BUS.dll
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.dll
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.dll
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\BUS.pdb
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\BUS.dll.config
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.pdb
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\Models.dll.config
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\DAO.dll.config
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window1.g.cs
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window2.g.cs
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.cache
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.lref
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window1.baml
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\Window2.baml
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.g.resources
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.Properties.Resources.resources
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.exe
+C:\Users\IT\Desktop\Task1Platform\Task1Platform\SushiPay\obj\Debug\SushiPay.pdb
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\SushiPay.exe.config
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\SushiPay.exe
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\SushiPay.pdb
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\BUS.dll
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\Models.dll
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\DAO.dll
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\BUS.pdb
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\BUS.dll.config
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\Models.pdb
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\Models.dll.config
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\DAO.dll.config
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\SushiPay.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\Window1.g.cs
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\Window2.g.cs
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.cache
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.lref
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\Window1.baml
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\Window2.baml
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\SushiPay.g.resources
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\SushiPay.Properties.Resources.resources
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\SushiPay.exe
+C:\Users\IT\Desktop\Task1Platform+Rep\Task1Platform\SushiPay\obj\Debug\SushiPay.pdb
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\SushiPay.exe.config
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\SushiPay.exe
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\SushiPay.pdb
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\BUS.dll
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\Models.dll
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\DAO.dll
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\EntityFramework.dll
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\BUS.pdb
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\BUS.dll.config
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\Models.pdb
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\Models.dll.config
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\DAO.pdb
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\DAO.dll.config
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\bin\Debug\EntityFramework.xml
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\Window1.g.cs
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\Window2.g.cs
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\App.g.cs
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.cache
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay_MarkupCompile.lref
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\Window1.baml
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\Window2.baml
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay.g.resources
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay.Properties.Resources.resources
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay.csproj.CopyComplete
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay.exe
+C:\Users\Богдан\Desktop\1.5к\5завдання\Task1Platform\SushiPay\obj\Debug\SushiPay.pdb
